@@ -1,0 +1,17 @@
+{
+    "name": "davis_savickis/davis-plugin",
+    "description": "Starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Davis Savickis",
+            "email": "davis135@inbox.lv"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {"Inc\\":  "./inc"}
+  }
+}
